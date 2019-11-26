@@ -5,3 +5,4 @@
     'MyVendor_FactorySampleModule',
     __DIR__
 );
+
